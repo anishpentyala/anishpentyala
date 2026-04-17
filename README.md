@@ -8,7 +8,7 @@ I’m a 9th grader in Sammamish, WA building real things at the intersection of 
 
 **[HopeBridge](https://github.com/anishpentyala/hope-bridge-web)** — Youth-led nonprofit I co-founded focused on teen mental health in King County. Built the full website with React + Supabase. Running events, school outreach, and a community story project.
 
-**AAA Sports Camp** — Teen-led soccer camp for kids ages 7–10. I run operations and built the website.
+**[AAA Sports Camp](https://github.com/anishpentyala/Youthsoccerprogramwebsite)** — Teen-led soccer camp for kids ages 7–10. I run operations and built the website.
 
 ## Stack
 Python · PyTorch · React · Supabase · XGBoost · Leaflet · Vite
